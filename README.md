@@ -12,4 +12,4 @@ I'm a Cyber Security student and open always to learning.
 
 ## 🌟 Certificates
 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7198853898562928640/"><img src="img/oscp.png" alt="OSCP Badge" width="150" height="150"></a><a href="https://www.linkedin.com/feed/update/urn:li:activity:7212050020705992704/"><img src="img/cpts.png" alt="OSCP Badge" width="175" height="175"></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7198853898562928640/"><img src="img/oscp.png" alt="OSCP Badge" width="150" height="150"></a><a href="https://www.linkedin.com/feed/update/urn:li:activity:7212050020705992704/"><img src="img/cpts.png" alt="OSCP Badge" width="175" height="175"></a><a href="https://www.linkedin.com/feed/update/urn:li:activity:7249386353807753219/"><img src="img/cbbh.png" alt="OSCP Badge" width="175" height="175"></a>
